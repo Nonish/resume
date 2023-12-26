@@ -1,2 +1,2 @@
 # Resume
-This repo is only host my resume. 
+This repository is only for host my [resume](https://nonish.github.io/resume/). 
