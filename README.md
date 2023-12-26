@@ -1,2 +1,2 @@
-# resume
-Repo for depoly resume. 
+# Resume
+This repo is only host my resume. 
